@@ -1,0 +1,4 @@
+template-file-path: ./networking.yaml
+tags:
+  Name: gitsync
+  Project: Cloudformation AWS Networking
